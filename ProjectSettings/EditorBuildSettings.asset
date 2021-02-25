@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Resources/Loading.unity
+    guid: 3f97ff319a394854195fd72973de9d01
+  - enabled: 1
+    path: Assets/Resources/mainScene.unity
+    guid: 6ffddc2efae673544b671835e0db4a2c
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level1.unity
+    guid: ccb7644b3c202bf4b90ca9f20d743777
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level2.unity
+    guid: d23ff8b8c288c304982ee97ad09aff72
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level3.unity
+    guid: 1a11b06927e85ae49af3c5bcc0041c1f
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level4.unity
+    guid: f1d7eb2670d026d4fa69e3b66ef54d6f
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level5.unity
+    guid: a799a83c6fcb45146bb4fc20747ea43e
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level6.unity
+    guid: fc485c2294421c447b32bed5ddb639ec
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level7.unity
+    guid: 342866aa3c35175499254df11d7f229a
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level8.unity
+    guid: 6bca3753f1ca4684c9a778c50177e416
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level9.unity
+    guid: b85e713b3213cb74288a1d6601d60dfc
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level10.unity
+    guid: 37befcd37e3918546bcfea5375804a35
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level11.unity
+    guid: 4ac21532de068d04ea57ed331b6a57b5
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level12.unity
+    guid: afdb403dee2cf0543ab612643e37081a
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level13.unity
+    guid: 591ca6cb5f36f5b4eb7859cded2817f8
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level14.unity
+    guid: 0cd71620b9be6364cb8127b711e74ec5
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level15.unity
+    guid: 3204c8666dad3a644ae1257e2d822da5
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level16.unity
+    guid: 88e20d66346ff4b4bb9216c7006c4ed8
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level17.unity
+    guid: d1ebdadef830d8a45b24a5fa3e401207
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level18.unity
+    guid: 628df332855ca49438c9a172419eff72
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level19.unity
+    guid: 789ed417f29fa2f409116fd7bb70bd79
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level20.unity
+    guid: e3f8d791bc1e10d43a0f3189e4a17932
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level21.unity
+    guid: 3994515b0a036eb4cad318887a7589cd
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level22.unity
+    guid: e52bbb63c3818cc4584453e48f047645
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level23.unity
+    guid: 2a809b617db5ed546a01eeb4a784db99
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level24.unity
+    guid: b536bfdb9b126b34c86542c867e648a0
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Level25.unity
+    guid: 220a936b0c71e7a49b9ea4839e779aee
+  - enabled: 1
+    path: Assets/Resources/LevelsPrefab/Scenes/Tutorial.unity
+    guid: 89e7bb2f090012b4bb091e03f1dd032b
+  m_configObjects: {}

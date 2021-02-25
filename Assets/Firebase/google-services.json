@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "896470359812",
+    "firebase_url": "https://ragequitter-5fc5a.firebaseio.com",
+    "project_id": "ragequitter-5fc5a",
+    "storage_bucket": "ragequitter-5fc5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896470359812:android:481d35b1dd0cc628563a51",
+        "android_client_info": {
+          "package_name": "com.Room20.DontFall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896470359812-ng8g1nmiu2k4s42ef5snuhvqcnrp1mb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Hfc4ilBxY9R-7Y5qFU1XzqT1cK-mfy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896470359812-ng8g1nmiu2k4s42ef5snuhvqcnrp1mb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896470359812:android:1b02af5e1d0aba1a563a51",
+        "android_client_info": {
+          "package_name": "com.blagaGames.RageQuitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896470359812-ng8g1nmiu2k4s42ef5snuhvqcnrp1mb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Hfc4ilBxY9R-7Y5qFU1XzqT1cK-mfy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896470359812-ng8g1nmiu2k4s42ef5snuhvqcnrp1mb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

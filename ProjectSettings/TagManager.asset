@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - terrain
+  - Water
+  - enamy
+  - star
+  - win
+  - newRevivePointText
+  - newLife
+  - destroyable
+  - saver
+  - money
+  - sfx
+  - tracked
+  - canvas
+  - dimond
+  - adManager
+  - joystick
+  - invTitle
+  - tutorialMessage
+  - tutorialLevel
+  - levelsMenu
+  - greyScreen
+  - Tree
+  - LevelCompleted
+  - DeathScreen
+  - NotEnoughDimonds
+  - NotEnoughMoney
+  - OverlayGreyScreen
+  - DimondShop
+  - PlayerJumpButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

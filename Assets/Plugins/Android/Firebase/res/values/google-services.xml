@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://ragequitter-5fc5a.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">896470359812</string>
+  <string name="google_storage_bucket" translatable="false">ragequitter-5fc5a.appspot.com</string>
+  <string name="project_id" translatable="false">ragequitter-5fc5a</string>
+  <string name="google_api_key" translatable="false">AIzaSyB2Hfc4ilBxY9R-7Y5qFU1XzqT1cK-mfy4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2Hfc4ilBxY9R-7Y5qFU1XzqT1cK-mfy4</string>
+  <string name="google_app_id" translatable="false">1:896470359812:android:481d35b1dd0cc628563a51</string>
+  <string name="default_web_client_id" translatable="false">896470359812-ng8g1nmiu2k4s42ef5snuhvqcnrp1mb1.apps.googleusercontent.com</string>
+</resources>

@@ -11,6 +11,7 @@ public class GetHelpers : MonoBehaviour
 
     public void GetAllHighscores(DatabaseReference database)
     {
+        Debug.Log("Called get highscores");
         HighScoreList = new List<HighScoreModel>();
         database.Database
         .GetReference("HighScores")
@@ -35,6 +36,7 @@ public class GetHelpers : MonoBehaviour
                         PlayerName = convertedObject["playerName"].ToString(),
                         LastLevel = int.Parse(convertedObject["lastLevel"].ToString()),
                     };
+                    Debug.Log(model);
                     HighScoreList.Add(model);
                 }
             }

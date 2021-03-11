@@ -38,7 +38,6 @@ public class GameManager : MonoBehaviour
         lvl = Mathf.Min(lvl, levels.Length - 1);
 
         if (restart==true || curentLvlObj == null){
-            SceneManager.LoadScene("Level"+(lvl+1).ToString(), LoadSceneMode.Single);
             player.GetComponent<playerManager>().invIsHere.SetActive(false);
             GameObject.FindGameObjectWithTag("greyScreen").GetComponent<greyScreenHandler>().Hide();
 

@@ -19,3 +19,17 @@ The core gameplay of the game consists in avoiding traps and finishing levels in
   3. Fix highscores saving bug
   4. Fix ads integration
   5. Fixed a bug that was crashing the level's texture 
+### Week 4
+  #### Multiplayer
+  1. Added photon to project and configured project
+  2. Synced players on the map
+### Week 5
+  #### Multiplayer
+  1. Added game win/lose based on what the other player does
+  2. Added scores for multiplayer
+  3. Added room prefs, so that both players play on the same desired map
+  4. Small bugfixes
+### Week 6
+  #### Multiplayer
+  1. Added ranking tables
+  2. Small bugfixes & testing
